@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Me encanta el desarrollo web
-### Adoro los comics
-### Actualmente estoy aprendiendo en Zeniaq
+### Adoro los comics  <a href = "https://github.com/axbren/genial-github-axbren-readme/Axbren
+### Actualmente estoy aprendiendo en Zeniaq 
 ### Actualmente  estoy en la universidad
 ### Me encanta la musica
 ### Me gustan los videojuegos
