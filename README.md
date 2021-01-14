@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on: Casa con mi familia
-- 🌱 I’m currently learning: Zeniaq
+- 🌱 I’m currently learning: En Zeniaq
 - 👯 I’m looking to collaborate on:Una empresa pequeña
 - 🤔 I’m looking for help with: muchas cosas que no entiendo
 - 💬 Ask me about: Temas que me gusten
