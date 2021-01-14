@@ -8,4 +8,4 @@
 - 📫 How to reach me: Instagram como axbrenj1999 o Wattpadd como Axbrenj o al correo natsuevans1999@gmail.com
 - 😄 Pronouns: Axbrenj
 - ⚡ Fun fact: me gusta los comics, mangas videojuegos y ver peliculas clasicas en especial de cantinflas 
--     Tengo canal de (Youtube)  [https://www.youtube.com/channel/UCATu-XErd1wkit0anfdBKow]
+-     Tengo canal de (Youtube) https://www.youtube.com/channel/UCATu-XErd1wkit0anfdBKow
