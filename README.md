@@ -1,11 +1,11 @@
 ### Hi there 👋
-### Me encanta el desarrollo web
-### Adoro los comics  <a href = "https://github.com/axbren/genial-github-axbren-readme/Axbren
-### Actualmente estoy aprendiendo en Zeniaq 
-### Actualmente  estoy en la universidad
-### Me encanta la musica
-### Me gustan los videojuegos
-### mis contactos son:  isntagran como axbrenj1999 wattppad como Axbrenj 
+### Me encanta el desarrollo web 👋
+### Adoro los comics 👋
+### Actualmente estoy aprendiendo en Zeniaq 👋
+### Actualmente  estoy en la universidad 👋
+### Me encanta la musica 👋
+### Me gustan los videojuegos 👋
+### mis contactos son:  isntagran como axbrenj1999 wattppad como Axbrenj 👋
 
 <!--
 **axbren/Axbren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
