@@ -1,6 +1,11 @@
 ### Hi there 👋
 ### Me encanta el desarrollo web
-
+### Adoro los comics
+### Actualmente estoy aprendiendo en Zeniaq
+### Actualmente  estoy en la universidad
+### Me encanta la musica
+### Me gustan los videojuegos
+### mis contactos son:  isntagran como axbrenj1999 wattppad como Axbrenj 
 
 <!--
 **axbren/Axbren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,9 +13,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Zeniaq
-
-
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
