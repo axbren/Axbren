@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with: muchas cosas que no entiedo 
 - 💬 Ask me about: Temas que me gusten
 - 📫 How to reach me: Instagram como axbrenj1999 o Wattpadd como Axbrenj o al correo natsuevans1999@gmail.com
+- 😄 Tengo canal de Youtube <a href ="https://www.youtube.com/channel/UCATu-XErd1wkit0anfdBKow"> Mi canal</a>
 - 😄 Pronouns: Axbrenj
 - ⚡ Fun fact: me gusta los comics, mangas videojuegos y ver peliculas clasicas en especial de cantinflas 
-- 😄 Tengo canal de Youtube <a href="https://www.youtube.com/channel/UCATu-XErd1wkit0anfdBKow"></a>
+
