@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Me encanta el desarrollo web
-### Adoro los comics (https://raw.Axbreconcontent.com/parzibyte/WaterPy/master/assets/descarga.png)
+### Adoro los comics
 ### Actualmente estoy aprendiendo en Zeniaq
 ### Actualmente  estoy en la universidad
 ### Me encanta la musica
