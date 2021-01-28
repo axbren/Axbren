@@ -1,0 +1,298 @@
+####################primero pagina tributo
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<html id="main">
+  <h1 id="title"> Darth Vader</h1>
+  <body>
+  <div id="img-div">
+    <center>
+    <img id="image"></img>
+  
+    </center>
+    </div>
+ <ul id="tribute-info">
+   <li> im i your father</li>
+   <li> im born in tatooine</li>
+  </ul><a id="tribute-link" target="_blank"  href="https://es.wikipedia.org/wiki/Darth_Vader">Wiki Star Wars</a></li>
+  </body>
+</html>
+
+libnk
+######################primero
+
+###################### segundo
+
+<!DOCTYPE html>
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<html>
+  <main>
+    <h1 id="title">Formulario de encuesta</h1>
+    <p id="description">Rellene los datos.</p>
+  </main>
+  <form id="survey-form">
+    <table id="survery-input-table" align="center">
+      <tr>
+        <td><label id="name-label" for="name">Nombre</label></td>
+        <td>
+          <input placeholder="nombre" type="text" id="name"/>
+        </td>
+      </tr>
+      <tr>
+        <td><label id="email-label" for="email">E-mail</label></td>
+        <td><input placeholder=" e-mail"type="email" id="email"/>
+        </td>
+      </tr>
+      <tr>
+        <td><label id="number-label" for="number">Number</label></td>
+        <td><input placeholder="Number" type="number" max="50" min="10" id="number"/>
+        </td>
+      </tr>
+      <tr>
+        <td>Consolas disponibles </td>
+        <td>
+          <select id="dropdown">
+            <option value="Xbox360">Xbox360</option>
+            <option value="Playstation4">Playstation4</option>
+            <option value="Nintendo3DS">Nintendo 3ds</option>
+            <option value="Nintendo switch">Nintendo switch</option>
+          </select>
+        </td>
+      </tr>
+      <tr>
+        <td>pagos </td>
+        <td>
+          <input type="radio" id="efectivo" name="gender" value="efectivo">
+          <label for="efectivo">Efectivo</label><br>
+          
+          <input type="radio" id="targeta-credito" name="gender" value="targeta-credito">
+          <label for="targeta-credito">targeta-credito</label><br>
+          
+          <input type="radio" id="other" name="gender" value="other">
+          <label for="other">Otro</label>
+        </td>
+      </tr>
+      <tr>
+        <td>formas de envio </td>
+        <td>
+          <input type="checkbox" id="paqueteria" name="gender" value="paqueteria">
+          <label for="paqueteria">paqueteria</label><br>
+          
+        
+          <input type="checkbox" id="other" name="gender" value="other">
+          <label for="other">Otro</label>
+        </td>
+      </tr>
+      <tr>
+        <td>Comentarios </td>
+        <td>
+          <textarea></textarea>
+        </td>
+      </tr>
+    </table>
+    <br/>
+    <button id="submit">Enviar</button>
+  </form>
+  <div id="mocha"></div>
+  
+</html>
+######################segundo
+
+######################tercero pagina de destino de producto
+
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<html id="main">
+  <header id="header"></header>
+</html>
+
+
+######################tercero
+
+######################cuarto pagina de documentacion
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<!DOCTYPE html>
+<html>
+  <main id="main-doc">
+    
+   <h1 align="center"> Acerca de la   Nintendo Switch</h1>
+    <hr>
+    <P style=»text-align: justify> Conosida coma <em>1</em>(?????? ???? Nintendo Suitchi) en el oriente la cual es la octava consala de la compañia nintendo conocida en el desarrollo por su nombre código «NX», se dio a conocer en octubre de 2016 y fue lanzada mundialmente el 3 de marzo de 2017, Nintendo considera a Switch una consola híbrida. Se puede utilizar como consola de sobremesa con la unidad principal insertada en una estación de acoplamiento para conectarla con un televisor. Alternativamente, puede ser extraída de la base y utilizada de forma similar a una tableta a través de su pantalla táctil LCD, o colocada sobre una superficie gracias a su soporte plástico integrado siendo así visible por varios jugadores. <em>2</em>La consola fue anunciada el 17 de marzo de 2015 en una conferencia de prensa para anunciar una colaboración entre Nintendo y DeNA.
+</P><h6>Nintendo Platform Technology Development</h6>
+ <hr>
+    <p> Datos tecnicos</p>
+    <p> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Nintendo_Switch_Console.png" align="right" width="140" height="120"><ul>
+    <li>Peso:	300 g</li>
+    <li>Procesador:	SoC Nvidia Tegra</li>
+    <li>Memoria:	4 GB</li>
+    <li> Memoria:	4 GB
+Almacenamiento	Interno</li>
+    <li>memoria flash: 32 GB
+Externo microSDXC
+4 GB RAM LPDDR4</li>
+    <li>GPU:	Nvidia Tegra Personalizada </li>
+    <li>Conectividad:	2,4/5GHz 802.11ac Wi-Fi
+Bluetooth 4.0</li>
+    
+</ul>
+    <p>Software</p>
+    <ul>
+      <li>Sistema operativo:	
+Sistema operativo de Nintendo Switch
+FreeBSD  </li>
+      <li>Servicio en línea:	
+Nintendo Switch Online
+Nintendo eShop
+Nintendo Network</li>
+      <li>Programa más vendido:	Mario Kart 8 Deluxe ( 26.74 millones de unidades vendidas)</li>
+      <br>
+      <br>
+       <TABLE BORDER align="center">
+
+	<TR>
+ 
+		<TD colspan="3" align="center">Componentes</TD> 
+	</TR>
+	<TR>
+		<TD>joy con</TD> 
+    <TD>con sola junto a base</TD> 
+    <TD>cables</TD>
+	</TR>
+</TABLE>
+    </ul>
+</p>
+ <hr>
+     <TABLE BORDER align="center">
+
+	<TR>
+		<TD colspan="3" align="center">Cronologia</TD> 
+	</TR>
+	<TR>
+		<TD>
+		  Nintendo 3ds  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nintendo-3DS-AquaOpen.png/250px-Nintendo-3DS-AquaOpen.png" align="center" width="100" height="100">
+		</TD> <TD>Nintendo Wii U <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wii_U_Console_and_Gamepad.png/1280px-Wii_U_Console_and_Gamepad.png" align="center" width="100" height="100"></TD> <TD>Nintendo Switch <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Nintendo_Switch_Console.png" align="center" width="100" height="100"><h6>Precio:$8,199.00</h6></TD> 
+	</TR>
+</TABLE>
+  <hr>
+  <p>
+  <h1>Desarrollo</h1>
+  <p style=»text-align: justify>
+    El desarrollo de la Switch continuó la estrategia del océano azul de Nintendo para el competitivo mercado de las consolas. En vez de probar a competir función por función con las ofertas de Microsoft y Sony, Fils-Aime dijo que el objetivo de Nintendo para la Switch era "crear productos y experiencias que son únicas y que realmente no pueden ser copiadas por nuestros competidores".27? Según Miyamoto, el desarrollo de la Switch en Nintendo estuvo dirigido por trabajadores jóvenes, con él diciendo que "es como si ellos hubieran sacado adelante y diseñado este sistema".28? Miyamoto no estuvo directamente involucrado, lo que le permitió tener más tiempo para desarrollar otros programas que se estaban creando en el mismo momento, como Super Mario Run.
+  </p>
+  </p>
+<hr>
+<p>
+<h1>Anuncios y promociones</h1>
+<P>
+  El 20 de octubre de 2016, Nintendo anunció oficialmente la consola bajo el nombre de Nintendo Switch, junto con un tráiler para enseñar la naturaleza del hardware como dispositivo híbrido.El tráiler, considerado atípico para los anteriores enfoques del marketing de Nintendo según Bloomberg, estuvo diseñado para enseñar las diversas maneras en las que la Switch se puede utilizar, para que la gente pueda reconocer que "cada una de sus maneras ofrece diferentes experiencias de juego para disfrutar". Kimishima dijo que el intento del tráiler era enseñar que el dispositivo estaba dedicado a cualquier tipo de jugador, mostrando características que jugadores más expertos podrían reconocer y animarse a probarla. </P>
+
+  Un acontecimiento de prensa para la Nintendo Switch tuvo lugar en Tokio el 13 de enero de 2017, donde se enseñaron todas las características de la consola, el precio de venta y la línea inicial de juegos.4
+
+<P style=»text-align: justify>El acontecimiento se emitió en directo, con un doblador inglés proveído por Nintendo of Europe durante su transmisión y las cuentas regionales de Twitter anunciando los detalles al resto de idiomas (aunque poco después aparecieron subtitulados en sus canales oficiales). </P>
+<hr>
+<p>
+  <h1>Juegos</h1>
+  
+  <ul>
+  <li>The Legend of Zelda: Breath of the Wild</li>
+   <li>Super Mario Odyssey</li>
+    <li>Mario Kart 8 Deluxe</li>
+    <li>Celeste</li>
+    <li>Splatoon 2</li>
+    <li>Mario + Rabbids Kingdom Battle</li>
+    <li>Arms</li>
+    <li>Doom</li>
+</ul>
+    <hr>
+<p>
+<h1>Reseña</h1>
+<Con>
+  
+</Con La nueva consola de sobremesa no hace pasar página y alejarse de la consola casual. Pero la Wii U no le salió bien. En ella pudimos comprobar algunas ideas de alejamiento de la consola de sobremesa tradicional con ese mando con el que jugar sin necesitar otra pantalla. Esa idea es uno de los pilares que muchas marcas y plataformas están explorando: jugar con la potencia de una sobremesa pero con la libertad de hacerlo donde y cuándo queramos.p>
+</p>
+</p>
+</p>
+    </ul>
+    </p>
+  </main>
+</html>
+
+
+######################cuarto
+
+######################quinto portafolio personal
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<!DOCTYPE html>
+<html>
+  <center>
+  <h1 id="main" style="color: red;">Welcom-section</h1>
+    <h6 style="color: red;">by Abner Joel Lira Silva</h6>
+  </center>
+  <center>
+  <nav>
+    <a href="https://www.dragonball-multiverse.com/es/chapters.html" class="nav-enlace"> Mi pagina favorita</a>
+<a href="https://github.com/axbren" class="nav-enlace" target="_blanck">Mi github</a>
+<a href="https://axbrenj1999.blogspot.com/2020/08/hola.html" class="nav-enlace">Mi blog</a>
+ <a href="https://www.youtube.com/channel/UCATu-XErd1wkit0anfdBKow" target="_blank" class="nav-enlace">Mi canal de youtube</a>
+  </nav>
+  </center>
+  <body style="background-color:salmon;">
+  </body>
+  <br>
+  <br>
+  <br>
+  <table border="2" align="center"  WIDTH="90%" HEIGHT="90%">
+    <tr>
+      <td><img src="https://i2.wp.com/d1lss44hh2trtw.cloudfront.net/assets/article/2018/09/07/how-to-greet-citizens-marvels-spider-man-about-town-trophy_feature.jpg?w=840&resize=840%2C&ssl=1" width="100" height="100"/></td>
+      <td> Este es mi super heroe favorito</td>
+      <td> <a href="https://spider-man.fandom.com/es/wiki/Spider-Man_Wiki"> Acerca de el</a></td>
+</tr>
+    <tr>
+      <td><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c548.png" width="100" height="100"/></td>
+      <td>Mi canal</td>
+      <td> <a href="https://www.youtube.com/channel/UCATu-XErd1wkit0anfdBKow" target="_blank">Estos son todos mi videos</a></td>
+</tr>
+  <tr>
+      <td><img src="https://www.flaticon.es/premium-icon/icons/svg/3015/3015819.svg" width="100" height="100"/></td>
+      <td>Wattpad</td>
+      <td> <a href="https://www.wattpad.com/story/220367280?utm_source=android&utm_medium=com.whatsapp&utm_content=share_writing&wp_page=create&wp_uname=axbrenj&wp_originator=P7SOI0Ka89BNb%2BzP0Ps5xOWvz9q1PTN9SC815AM0zR2%2Bw6XbpExOEo7RItQa1cjNKnOdGXkrTak%2FomflJ4wrdiAEphew0lp3%2BZO6zYyyfnpbOZK28N7pbI8uN6%2BkEfRv" target="_blank">Este uno de mis trabajos</a></td>
+</tr>
+    <tr>
+      <td><img src="https://www.flaticon.es/svg/vstatic/svg/25/25231.svg?token=exp=1611777866~hmac=19ddc38ba6796f7c823412a5025b84f6" width="100" height="100"/></td>
+      <td>Mi git</td>
+      <td> <a href="https://github.com/axbren/paginawebTulanmap" target="_blank"> Mi repositorio mas importante</a></td>
+</tr>
+    <tr>
+      <td><img src="http://4.bp.blogspot.com/-m-Rz6Ctv5Bc/T5Tk27wJELI/AAAAAAAACm8/8h9E2ArPnhk/s500/hidalgo.png" width="100" height="100"/></td>
+      <td>Uno de mis proyectos</td>
+      <td> <a href="http://pag-tulanmap.herokuapp.com/"> Mi proyecto importante</a></td>
+</tr>
+  </table>
+
+</html>
+ 
+
+CCS------------
+.nav-enlace{
+  display: inline-block;
+  background: salmon;
+  color:red;
+  padding: 10px 30px;
+  text-decoration:none;
+}
+.nav-enlace:hover{
+  background: rosybrown;
+}
+nav{
+  background: rebeccapurple;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+--------------
+
+
+
+
+
+
+######################quinto
