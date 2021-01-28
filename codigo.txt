@@ -96,15 +96,6 @@ libnk
 </html>
 ######################segundo
 
-######################tercero pagina de destino de producto
-
-<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-<html id="main">
-  <header id="header"></header>
-</html>
-
-
-######################tercero
 
 ######################cuarto pagina de documentacion
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
@@ -115,7 +106,7 @@ libnk
     
    <h1 align="center"> Acerca de la   Nintendo Switch</h1>
     <hr>
-    <P style=»text-align: justify> Conosida coma <em>1</em>(?????? ???? Nintendo Suitchi) en el oriente la cual es la octava consala de la compañia nintendo conocida en el desarrollo por su nombre código «NX», se dio a conocer en octubre de 2016 y fue lanzada mundialmente el 3 de marzo de 2017, Nintendo considera a Switch una consola híbrida. Se puede utilizar como consola de sobremesa con la unidad principal insertada en una estación de acoplamiento para conectarla con un televisor. Alternativamente, puede ser extraída de la base y utilizada de forma similar a una tableta a través de su pantalla táctil LCD, o colocada sobre una superficie gracias a su soporte plástico integrado siendo así visible por varios jugadores. <em>2</em>La consola fue anunciada el 17 de marzo de 2015 en una conferencia de prensa para anunciar una colaboración entre Nintendo y DeNA.
+    <P style=Â»text-align: justify> Conosida coma <em>1</em>(?????? ???? Nintendo Suitchi) en el oriente la cual es la octava consala de la compaÃ±ia nintendo conocida en el desarrollo por su nombre cÃ³digo Â«NXÂ», se dio a conocer en octubre de 2016 y fue lanzada mundialmente el 3 de marzo de 2017, Nintendo considera a Switch una consola hÃ­brida. Se puede utilizar como consola de sobremesa con la unidad principal insertada en una estaciÃ³n de acoplamiento para conectarla con un televisor. Alternativamente, puede ser extraÃ­da de la base y utilizada de forma similar a una tableta a travÃ©s de su pantalla tÃ¡ctil LCD, o colocada sobre una superficie gracias a su soporte plÃ¡stico integrado siendo asÃ­ visible por varios jugadores. <em>2</em>La consola fue anunciada el 17 de marzo de 2015 en una conferencia de prensa para anunciar una colaboraciÃ³n entre Nintendo y DeNA.
 </P><h6>Nintendo Platform Technology Development</h6>
  <hr>
     <p> Datos tecnicos</p>
@@ -139,11 +130,11 @@ Bluetooth 4.0</li>
       <li>Sistema operativo:	
 Sistema operativo de Nintendo Switch
 FreeBSD  </li>
-      <li>Servicio en línea:	
+      <li>Servicio en lÃ­nea:	
 Nintendo Switch Online
 Nintendo eShop
 Nintendo Network</li>
-      <li>Programa más vendido:	Mario Kart 8 Deluxe ( 26.74 millones de unidades vendidas)</li>
+      <li>Programa mÃ¡s vendido:	Mario Kart 8 Deluxe ( 26.74 millones de unidades vendidas)</li>
       <br>
       <br>
        <TABLE BORDER align="center">
@@ -175,19 +166,19 @@ Nintendo Network</li>
   <hr>
   <p>
   <h1>Desarrollo</h1>
-  <p style=»text-align: justify>
-    El desarrollo de la Switch continuó la estrategia del océano azul de Nintendo para el competitivo mercado de las consolas. En vez de probar a competir función por función con las ofertas de Microsoft y Sony, Fils-Aime dijo que el objetivo de Nintendo para la Switch era "crear productos y experiencias que son únicas y que realmente no pueden ser copiadas por nuestros competidores".27? Según Miyamoto, el desarrollo de la Switch en Nintendo estuvo dirigido por trabajadores jóvenes, con él diciendo que "es como si ellos hubieran sacado adelante y diseñado este sistema".28? Miyamoto no estuvo directamente involucrado, lo que le permitió tener más tiempo para desarrollar otros programas que se estaban creando en el mismo momento, como Super Mario Run.
+  <p style=Â»text-align: justify>
+    El desarrollo de la Switch continuÃ³ la estrategia del ocÃ©ano azul de Nintendo para el competitivo mercado de las consolas. En vez de probar a competir funciÃ³n por funciÃ³n con las ofertas de Microsoft y Sony, Fils-Aime dijo que el objetivo de Nintendo para la Switch era "crear productos y experiencias que son Ãºnicas y que realmente no pueden ser copiadas por nuestros competidores".27? SegÃºn Miyamoto, el desarrollo de la Switch en Nintendo estuvo dirigido por trabajadores jÃ³venes, con Ã©l diciendo que "es como si ellos hubieran sacado adelante y diseÃ±ado este sistema".28? Miyamoto no estuvo directamente involucrado, lo que le permitiÃ³ tener mÃ¡s tiempo para desarrollar otros programas que se estaban creando en el mismo momento, como Super Mario Run.
   </p>
   </p>
 <hr>
 <p>
 <h1>Anuncios y promociones</h1>
 <P>
-  El 20 de octubre de 2016, Nintendo anunció oficialmente la consola bajo el nombre de Nintendo Switch, junto con un tráiler para enseñar la naturaleza del hardware como dispositivo híbrido.El tráiler, considerado atípico para los anteriores enfoques del marketing de Nintendo según Bloomberg, estuvo diseñado para enseñar las diversas maneras en las que la Switch se puede utilizar, para que la gente pueda reconocer que "cada una de sus maneras ofrece diferentes experiencias de juego para disfrutar". Kimishima dijo que el intento del tráiler era enseñar que el dispositivo estaba dedicado a cualquier tipo de jugador, mostrando características que jugadores más expertos podrían reconocer y animarse a probarla. </P>
+  El 20 de octubre de 2016, Nintendo anunciÃ³ oficialmente la consola bajo el nombre de Nintendo Switch, junto con un trÃ¡iler para enseÃ±ar la naturaleza del hardware como dispositivo hÃ­brido.El trÃ¡iler, considerado atÃ­pico para los anteriores enfoques del marketing de Nintendo segÃºn Bloomberg, estuvo diseÃ±ado para enseÃ±ar las diversas maneras en las que la Switch se puede utilizar, para que la gente pueda reconocer que "cada una de sus maneras ofrece diferentes experiencias de juego para disfrutar". Kimishima dijo que el intento del trÃ¡iler era enseÃ±ar que el dispositivo estaba dedicado a cualquier tipo de jugador, mostrando caracterÃ­sticas que jugadores mÃ¡s expertos podrÃ­an reconocer y animarse a probarla. </P>
 
-  Un acontecimiento de prensa para la Nintendo Switch tuvo lugar en Tokio el 13 de enero de 2017, donde se enseñaron todas las características de la consola, el precio de venta y la línea inicial de juegos.4
+  Un acontecimiento de prensa para la Nintendo Switch tuvo lugar en Tokio el 13 de enero de 2017, donde se enseÃ±aron todas las caracterÃ­sticas de la consola, el precio de venta y la lÃ­nea inicial de juegos.4
 
-<P style=»text-align: justify>El acontecimiento se emitió en directo, con un doblador inglés proveído por Nintendo of Europe durante su transmisión y las cuentas regionales de Twitter anunciando los detalles al resto de idiomas (aunque poco después aparecieron subtitulados en sus canales oficiales). </P>
+<P style=Â»text-align: justify>El acontecimiento se emitiÃ³ en directo, con un doblador inglÃ©s proveÃ­do por Nintendo of Europe durante su transmisiÃ³n y las cuentas regionales de Twitter anunciando los detalles al resto de idiomas (aunque poco despuÃ©s aparecieron subtitulados en sus canales oficiales). </P>
 <hr>
 <p>
   <h1>Juegos</h1>
@@ -204,10 +195,10 @@ Nintendo Network</li>
 </ul>
     <hr>
 <p>
-<h1>Reseña</h1>
+<h1>ReseÃ±a</h1>
 <Con>
   
-</Con La nueva consola de sobremesa no hace pasar página y alejarse de la consola casual. Pero la Wii U no le salió bien. En ella pudimos comprobar algunas ideas de alejamiento de la consola de sobremesa tradicional con ese mando con el que jugar sin necesitar otra pantalla. Esa idea es uno de los pilares que muchas marcas y plataformas están explorando: jugar con la potencia de una sobremesa pero con la libertad de hacerlo donde y cuándo queramos.p>
+</Con La nueva consola de sobremesa no hace pasar pÃ¡gina y alejarse de la consola casual. Pero la Wii U no le saliÃ³ bien. En ella pudimos comprobar algunas ideas de alejamiento de la consola de sobremesa tradicional con ese mando con el que jugar sin necesitar otra pantalla. Esa idea es uno de los pilares que muchas marcas y plataformas estÃ¡n explorando: jugar con la potencia de una sobremesa pero con la libertad de hacerlo donde y cuÃ¡ndo queramos.p>
 </p>
 </p>
 </p>
