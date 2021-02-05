@@ -1,19 +1,20 @@
 #################comprobador de palindromo 1
 function palindrome(str) {
-return (
-str.replace(/[\D_]/g, "").toLowerCase() ===
-str
-.replace(/[\D_]/g, "")
-.toLowerCase()
-.split("")
-.reverse()
-.join("")
-);
+  str = str.toLowerCase().replace(/[\W_]/g, "");
+  for (var i = 0, len = str.length - 1; i < len / 2; i++) {
+    if (str[i] !== str[len - i]) {
+      return false;
+    }
+  }
+  return true;
 }
+
+
+
+console.log(palindrome("eye"));
 #################
 
 ################# CONVERTIDOR DE NUMEROS ROMANOS2
-
 var numbers = [ 1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1 ],
 romans = [ 'M', 'CM', 'D', 'CD', 'C', 'XC', 'L', 'XL', 'X', 'IX', 'V', 'IV', 'I' ];
 function convertToRoman(input) {
@@ -26,8 +27,8 @@ input -= number;
 });
 return returnStr;
 }
-convertToRoman(36);
 
+console.log(convertToRoman(36));
 #################
 
 #################cifrado de caersars 3
@@ -40,14 +41,19 @@ else
 return val;
 }).join('');
 }
+
+console.log(rot13("SERR PBQR PNZC"))
 #################
 
 ################# Validador de números de teléfono4
 function telephoneCheck(str) {
-var re = /^([+]?1[\s]?)?((?:[(](?:[2-9]1[02-9]|[2-9][02-8][0-9])[)][\s]?)|(?:(?:[2-9]1[02-9]|[2-9][02-8][0-9])[\s.-]?)){1}([2-9]1[02-9]|[2-9][02-9]1|[2-9][02-9]{2}[\s.-]?){1}([0-9]{4}){1}$/;
+ var re = /^([+]?1[\s]?)?((?:[(](?:[2-9]1[02-9]|[2-9][02-8][0-9])[)][\s]?)|(?:(?:[2-9]1[02-9]|[2-9][02-8][0-9])[\s.-]?)){1}([2-9]1[02-9]|[2-9][02-9]1|[2-9][02-9]{2}[\s.-]?){1}([0-9]{4}){1}$/;
 return re.test(str);
 }
-telephoneCheck("555-555-5555");
+
+console.log(telephoneCheck("1 555-555-5555"));
+console.log(telephoneCheck("1 (555) 555-5555"));
+console.log(telephoneCheck("555-5555"));
 #################
 
 ################# caja registradora
@@ -86,14 +92,6 @@ return output;}
 output.status = "OPEN";
 output.change = change_arr;
 return output;}
-checkCashRegister(19.5, 20.0, [
-["PENNY", 1.01],
-["NICKEL", 2.05],
-["DIME", 3.1],
-["QUARTER", 4.25],
-["ONE", 90.0],
-["FIVE", 55.0],
-["TEN", 20.0],
-["TWENTY", 60.0],
-["ONE HUNDRED", 100.0]]);
+
+console.log(checkCashRegister(19.5, 20, [["PENNY", 1.01], ["NICKEL", 2.05], ["DIME", 3.1], ["QUARTER", 4.25], ["ONE", 90], ["FIVE", 55], ["TEN", 20], ["TWENTY", 60], ["ONE HUNDRED", 100]]));
 #################
